@@ -1,0 +1,1502 @@
+[DEBUG]-[Thread-0]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-0]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-1]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-2]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:09:43 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-3]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-4]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-6]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-7]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-8]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-9]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-10]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-11]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-12]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:09:44 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-13]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-14]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-15]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-16]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-17]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-18]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-19]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-20]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-20]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-20]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-20]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-20]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-21]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-21]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-21]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-21]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-21]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-22]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-22]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-22]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-22]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-22]-2014-04-27 13:09:45 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-23]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-23]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-23]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-23]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-23]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-24]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-24]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-24]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-24]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-24]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-25]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-25]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-25]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-25]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-25]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-26]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-26]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-26]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-26]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-26]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-27]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-27]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-27]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-27]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-27]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-28]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-28]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-28]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-28]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-28]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-29]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-29]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-29]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-29]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-29]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-30]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-30]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-30]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-30]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-30]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-31]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-31]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-31]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-31]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-31]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-32]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-32]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-32]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-32]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-32]-2014-04-27 13:09:46 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-33]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-33]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-33]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-33]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-33]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-34]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-34]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-34]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-34]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-34]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-35]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-35]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-35]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-35]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-35]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-36]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-36]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-36]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-36]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-36]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-37]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-37]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-37]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-37]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-37]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-38]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-38]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-38]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-38]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-38]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-39]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-39]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-39]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-39]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-39]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-40]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-40]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-40]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-40]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-40]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-41]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-41]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-41]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-41]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-41]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-42]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-42]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-42]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-42]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-42]-2014-04-27 13:09:47 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-43]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-43]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-43]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-43]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-43]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-44]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-44]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-44]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-44]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-44]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-45]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-45]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-45]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-45]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-45]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-46]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-46]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-46]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-46]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-46]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-47]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-47]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-47]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-47]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-47]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-48]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-48]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-48]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-48]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-48]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-49]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-49]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-49]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-49]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-49]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-50]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-50]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-50]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-50]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-50]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-51]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-51]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-51]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-51]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-51]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-52]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-52]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-52]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-52]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-52]-2014-04-27 13:09:48 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-53]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-53]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-53]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-53]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-53]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-54]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-54]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-54]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-54]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-54]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-55]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-55]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-55]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-55]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-55]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-56]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-56]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-56]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-56]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-56]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-57]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-57]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-57]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-57]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-57]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-58]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-58]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-58]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-58]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-58]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-59]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-59]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-59]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-59]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-59]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-60]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-60]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-60]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-60]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-60]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-61]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-61]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-61]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-61]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-61]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-62]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-62]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-62]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-62]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-62]-2014-04-27 13:09:49 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-63]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-63]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-63]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-63]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-63]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-64]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-64]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-64]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-64]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-64]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-65]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-65]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-65]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-65]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-65]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-66]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-66]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-66]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-66]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-66]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-67]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-67]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-67]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-67]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-67]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-68]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-68]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-68]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-68]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-68]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-69]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-69]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-69]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-69]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-69]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-70]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-70]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-70]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-70]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-70]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-71]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-71]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-71]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-71]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-71]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-72]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-72]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-72]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-72]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-72]-2014-04-27 13:09:50 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-73]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-73]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-73]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-73]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-73]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-74]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-74]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-74]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-74]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-74]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-75]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-75]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-75]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-75]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-75]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-76]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-76]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-76]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-76]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-76]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-77]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-77]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-77]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-77]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-77]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-78]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-78]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-78]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-78]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-78]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-79]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-79]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-79]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-79]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-79]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-80]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-80]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-80]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-80]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-80]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-81]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-81]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-81]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-81]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-81]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-82]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-82]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-82]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-82]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-82]-2014-04-27 13:09:51 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-83]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-83]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-83]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-83]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-83]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-84]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-84]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-84]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-84]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-84]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-85]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-85]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-85]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-85]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-85]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-86]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-86]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-86]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-86]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-86]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-87]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-87]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-87]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-87]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-87]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-88]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-88]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-88]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-88]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-88]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-89]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-89]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-89]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-89]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-89]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-90]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-90]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-90]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-90]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-90]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-91]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-91]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-91]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-91]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-91]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-92]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-92]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-92]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-92]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-92]-2014-04-27 13:09:52 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-93]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-93]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-93]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-93]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-93]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-94]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-94]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-94]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-94]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-94]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-95]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-95]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-95]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-95]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-95]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-96]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-96]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-96]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-96]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-96]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-97]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-97]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-97]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-97]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-97]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-98]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-98]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-98]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-98]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-98]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-99]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-99]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-99]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-99]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-99]-2014-04-27 13:09:53 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-0]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-0]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-1]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-2]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-3]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:11:21 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-4]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-6]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-7]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-8]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-9]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-10]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-11]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-12]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-13]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:11:22 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-14]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-15]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-16]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-17]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-18]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-19]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-20]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-20]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-20]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-20]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-20]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-21]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-21]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-21]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-21]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-21]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-22]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-22]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-22]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-22]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-22]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-23]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-23]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-23]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-23]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-23]-2014-04-27 13:11:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-24]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-24]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-24]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-24]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-24]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-25]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-25]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-25]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-25]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-25]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-26]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-26]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-26]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-26]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-26]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-27]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-27]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-27]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-27]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-27]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-28]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-28]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-28]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-28]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-28]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-29]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-29]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-29]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-29]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-29]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-30]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-30]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-30]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-30]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-30]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-31]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-31]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-31]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-31]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-31]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-32]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-32]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-32]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-32]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-32]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-33]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-33]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-33]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-33]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-33]-2014-04-27 13:11:24 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-34]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-34]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-34]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-34]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-34]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-35]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-35]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-35]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-35]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-35]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-36]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-36]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-36]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-36]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-36]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-37]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-37]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-37]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-37]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-37]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-38]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-38]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-38]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-38]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-38]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-39]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-39]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-39]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-39]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-39]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-40]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-40]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-40]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-40]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-40]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-41]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-41]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-41]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-41]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-41]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-42]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-42]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-42]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-42]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-42]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-43]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-43]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-43]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-43]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-43]-2014-04-27 13:11:25 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-44]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-44]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-44]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-44]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-44]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-45]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-45]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-45]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-45]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-45]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-46]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-46]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-46]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-46]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-46]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-47]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-47]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-47]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-47]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-47]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-48]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-48]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-48]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-48]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-48]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-49]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-49]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-49]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-49]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-49]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-50]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-50]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-50]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-50]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-50]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-51]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-51]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-51]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-51]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-51]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-52]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-52]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-52]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-52]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-52]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-53]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-53]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-53]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-53]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-53]-2014-04-27 13:11:26 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-54]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-54]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-54]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-54]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-54]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-55]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-55]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-55]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-55]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-55]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-56]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-56]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-56]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-56]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-56]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-57]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-57]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-57]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-57]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-57]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-58]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-58]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-58]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-58]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-58]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-59]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-59]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-59]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-59]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-59]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-60]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-60]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-60]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-60]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-60]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-61]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-61]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-61]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-61]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-61]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-62]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-62]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-62]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-62]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-62]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-63]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-63]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-63]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-63]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-63]-2014-04-27 13:11:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-64]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-64]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-64]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-64]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-64]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-65]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-65]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-65]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-65]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-65]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-66]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-66]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-66]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-66]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-66]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-67]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-67]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-67]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-67]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-67]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-68]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-68]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-68]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-68]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-68]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-69]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-69]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-69]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-69]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-69]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-70]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-70]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-70]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-70]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-70]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-71]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-71]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-71]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-71]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-71]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-72]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-72]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-72]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-72]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-72]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-73]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-73]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-73]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-73]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-73]-2014-04-27 13:11:28 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-74]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-74]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-74]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-74]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-74]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-75]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-75]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-75]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-75]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-75]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-76]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-76]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-76]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-76]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-76]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-77]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-77]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-77]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-77]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-77]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-78]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-78]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-78]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-78]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-78]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-79]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-79]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-79]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-79]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-79]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-80]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-80]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-80]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-80]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-80]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-81]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-81]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-81]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-81]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-81]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-82]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-82]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-82]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-82]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-82]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-83]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-83]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-83]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-83]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-83]-2014-04-27 13:11:29 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-84]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-84]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-84]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-84]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-84]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-85]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-85]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-85]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-85]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-85]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-86]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-86]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-86]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-86]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-86]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-87]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-87]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-87]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-87]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-87]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-88]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-88]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-88]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-88]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-88]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-89]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-89]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-89]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-89]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-89]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-90]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-90]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-90]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-90]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-90]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-91]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-91]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-91]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-91]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-91]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-92]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-92]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-92]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-92]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-92]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-93]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-93]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-93]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-93]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-93]-2014-04-27 13:11:30 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-94]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-94]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-94]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-94]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-94]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-95]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-95]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-95]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-95]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-95]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-96]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-96]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-96]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-96]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-96]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-97]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-97]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-97]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-97]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-97]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-98]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-98]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-98]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-98]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-98]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-99]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-99]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-99]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-99]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-99]-2014-04-27 13:11:31 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-0]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-6]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-6]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-1]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-1]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-4]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-4]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-9]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-6]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 移动 �g���:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-7]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-0]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 移动 �g���:移动
+[DEBUG]-[Thread-8]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:12:04 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-2]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-9]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-4]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-8]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-1]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-7]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-2]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-6]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-3]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-4]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-3]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-7]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-0]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-2]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:20:27 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-0]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-0]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-2]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-1]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-4]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-3]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-9]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-6]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-13]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-18]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-9]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-12]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-7]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-18]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-19]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-17]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-15]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-13]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-14]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:21:00 [com.common.util.ip.IPSeeker]- 北京市:移动
+[ERROR]-[Thread-14]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- java.io.EOFException
+java.io.EOFException
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at com.common.util.ip.IPSeeker.readIP(IPSeeker.java:360)
+	at com.common.util.ip.IPSeeker.locateIP(IPSeeker.java:444)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:280)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:253)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:268)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:127)
+	at com.ip.test.IPtest.testIp(IPtest.java:27)
+	at com.ip.test.IPtest.run(IPtest.java:46)
+	at java.lang.Thread.run(Unknown Source)
+[DEBUG]-[Thread-17]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-18]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[ERROR]-[Thread-9]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- java.io.EOFException
+java.io.EOFException
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at com.common.util.ip.IPSeeker.readIP(IPSeeker.java:360)
+	at com.common.util.ip.IPSeeker.locateIP(IPSeeker.java:435)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:280)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:253)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:268)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:127)
+	at com.ip.test.IPtest.testIp(IPtest.java:27)
+	at com.ip.test.IPtest.run(IPtest.java:46)
+	at java.lang.Thread.run(Unknown Source)
+[ERROR]-[Thread-6]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- java.io.EOFException
+java.io.EOFException
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at com.common.util.ip.IPSeeker.readIP(IPSeeker.java:360)
+	at com.common.util.ip.IPSeeker.locateIP(IPSeeker.java:444)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:280)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:253)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:268)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:127)
+	at com.ip.test.IPtest.testIp(IPtest.java:27)
+	at com.ip.test.IPtest.run(IPtest.java:46)
+	at java.lang.Thread.run(Unknown Source)
+[ERROR]-[Thread-0]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- java.io.EOFException
+java.io.EOFException
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at com.common.util.ip.IPSeeker.readIP(IPSeeker.java:360)
+	at com.common.util.ip.IPSeeker.locateIP(IPSeeker.java:461)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:280)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:253)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:268)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:127)
+	at com.ip.test.IPtest.testIp(IPtest.java:27)
+	at com.ip.test.IPtest.run(IPtest.java:46)
+	at java.lang.Thread.run(Unknown Source)
+[ERROR]-[Thread-3]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- java.io.IOException: Negative seek offset
+java.io.IOException: Negative seek offset
+	at java.io.RandomAccessFile.seek(Native Method)
+	at com.common.util.ip.IPSeeker.readIP(IPSeeker.java:359)
+	at com.common.util.ip.IPSeeker.locateIP(IPSeeker.java:435)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:280)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:253)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:268)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:127)
+	at com.ip.test.IPtest.testIp(IPtest.java:27)
+	at com.ip.test.IPtest.run(IPtest.java:46)
+	at java.lang.Thread.run(Unknown Source)
+[ERROR]-[Thread-16]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- java.io.IOException: Negative seek offset
+java.io.IOException: Negative seek offset
+	at java.io.RandomAccessFile.seek(Native Method)
+	at com.common.util.ip.IPSeeker.readIP(IPSeeker.java:359)
+	at com.common.util.ip.IPSeeker.locateIP(IPSeeker.java:435)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:280)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:253)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:268)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:127)
+	at com.ip.test.IPtest.testIp(IPtest.java:27)
+	at com.ip.test.IPtest.run(IPtest.java:46)
+	at java.lang.Thread.run(Unknown Source)
+[ERROR]-[Thread-3]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- java.io.EOFException
+java.io.EOFException
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at com.common.util.ip.IPSeeker.readIP(IPSeeker.java:360)
+	at com.common.util.ip.IPSeeker.locateIP(IPSeeker.java:461)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:280)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:253)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:268)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:127)
+	at com.ip.test.IPtest.testIp(IPtest.java:27)
+	at com.ip.test.IPtest.run(IPtest.java:46)
+	at java.lang.Thread.run(Unknown Source)
+[DEBUG]-[Thread-0]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-6]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-9]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-11]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-17]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-13]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-1]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-11]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[ERROR]-[Thread-16]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- java.io.EOFException
+java.io.EOFException
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at java.io.RandomAccessFile.readFully(Unknown Source)
+	at com.common.util.ip.IPSeeker.readIP(IPSeeker.java:360)
+	at com.common.util.ip.IPSeeker.locateIP(IPSeeker.java:461)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:280)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:253)
+	at com.common.util.ip.IPSeeker.getArea(IPSeeker.java:268)
+	at com.common.util.ip.IPSeeker.getIPLocation(IPSeeker.java:127)
+	at com.ip.test.IPtest.testIp(IPtest.java:27)
+	at com.ip.test.IPtest.run(IPtest.java:46)
+	at java.lang.Thread.run(Unknown Source)
+[DEBUG]-[Thread-3]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-12]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-4]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-15]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-19]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-12]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-5]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-7]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-11]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 北京市:未知地区
+[DEBUG]-[Thread-9]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-3]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 未知国家:未知地区
+[DEBUG]-[Thread-6]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 未知国家:未知地区
+[DEBUG]-[Thread-9]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 未知国家:未知地区
+[DEBUG]-[Thread-14]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 未知国家:未知地区
+[DEBUG]-[Thread-16]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 未知国家:未知地区
+[DEBUG]-[Thread-16]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:21:23 [com.common.util.ip.IPSeeker]- 未知国家:未知地区
+[DEBUG]-[Thread-0]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area and set ip area to ipCache  
+[DEBUG]-[Thread-0]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-7]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-5]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-5]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-1]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-1]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-9]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-9]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-15]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-17]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-6]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-0]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-10]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-6]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-14]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-16]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-4]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-19]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-15]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-3]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-11]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-11]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-13]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-13]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-12]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-8]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-10]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-14]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip area from ipCache 
+[DEBUG]-[Thread-15]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-13]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-2]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-4]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-18]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-14]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-8]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- get ip country from ipCache 
+[DEBUG]-[Thread-8]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-10]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-4]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-2]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
+[DEBUG]-[Thread-13]-2014-04-27 13:27:12 [com.common.util.ip.IPSeeker]- 北京市:移动
