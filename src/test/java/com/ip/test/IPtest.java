@@ -7,7 +7,7 @@ import com.common.util.ip.IPSeeker;
 
 public class IPtest implements Runnable {
 	private static Logger log = LoggerFactory.getLogger(IPSeeker.class);
-	private static IPSeeker ip = new IPSeeker("QQWry.Dat",
+	private   IPSeeker ip = new IPSeeker("QQWry.Dat",
 			"C:/Program Files/cz88.net/ip");
 	private int i;
 
@@ -15,7 +15,7 @@ public class IPtest implements Runnable {
 		this.i = i;
 	}
 
-	public static void testIp() {
+	public   void testIp() {
 		// 指定纯真数据库的文件名，所在文件夹
 		/* IPSeeker ip = new IPSeeker("QQWry.Dat",
 		 "C:/Program Files/cz88.net/ip");*/
@@ -29,7 +29,7 @@ public class IPtest implements Runnable {
 	}
 
 	public static void main(String[] args) {
-		for (int i = 0; i < 20; i++) {
+		for (int i = 0; i < 50; i++) {
 			new Thread(new IPtest(i)).start();
 		}
 	}

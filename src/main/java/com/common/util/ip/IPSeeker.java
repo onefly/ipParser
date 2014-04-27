@@ -30,7 +30,7 @@ public class IPSeeker {
 	// 用来做为cache，查询一个ip时首先查看cache，以减少不必要的重复查找
 	private static Map<String, IPLocation> ipCache = new HashMap<String, IPLocation>();;
 	// 随机文件访问类
-	private static RandomAccessFile ipFile;
+	private  RandomAccessFile ipFile;
 	// 内存映射文件
 	private static MappedByteBuffer mbb;
 	// 起始地区的开始和结束的绝对偏移
